@@ -337,10 +337,10 @@ As a **user**, I want _to assign a specific color to each habit_ so that _I can 
 _Low_
 #### Story Points
 _2_
-The effort is estimated to be low due to the need for implementing a simple color assignment feature.
+The effort is estimated to be low due to the need to implement a simple color assignment feature.
 #### Notes
 - Ensure the color assignment process is user-friendly and intuitive.
-- Consider edge cases where the user might assign the same color to multiple habits.
+- Consider edge cases where users might assign the same color to multiple habits.
 
 ---
 
@@ -380,7 +380,7 @@ The effort is estimated to be moderate due to the need for data visualization an
 - Consider edge cases where there might be no completed habits data available.
 
 ### View all habits
-As a **user**, I want _to see both completed and incomplete habits in my report,_ so that _I have a comprehensive view of my habit tracking performance._
+As a **user**, I want _to see both completed and incomplete habits in my report,_ so that _I have a comprehensive view of my habit-tracking performance._
 
 #### Acceptance Criteria:
 1. The reports page should display both completed and incomplete habits.
